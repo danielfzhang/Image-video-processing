@@ -1,7 +1,4 @@
-# Multimedia-System-Assignments
-Assignments for Multimedia System written in Matlab
-
-***
+# Image-video-processing
 
 ### A1.m performs:
 * Read a selected image
